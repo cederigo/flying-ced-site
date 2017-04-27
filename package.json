@@ -1,0 +1,25 @@
+{
+  "name": "flying-ced",
+  "version": "0.0.1",
+  "description": "Static site generator for flying-ced.ch",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "build:watch": "nodemon -w src -w assets -w layouts -e html,css,md,js --exec npm run build"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Cédric Reginster <cedric.reginster@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "handlebars": "*",
+    "metalsmith": "*",
+    "metalsmith-assets": "*",
+    "metalsmith-collections": "*",
+    "metalsmith-layouts": "*",
+    "metalsmith-markdown": "*",
+    "metalsmith-permalinks": "*",
+    "nodemon": "^1.11.0"
+  }
+}

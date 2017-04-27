@@ -1,0 +1,22 @@
+<div class="header-container">
+  <header class="wrapper clearfix">
+    <a href="/">
+      <img class="logo" src="img/logo.svg" />
+    </a>
+    <nav role="select">
+      <ul>
+        <li><a href="/#contact">Kontakt</a></li>
+        <li><a href="/#flying-field">Flugplatz</a></li>
+        <li><a href="/helicopters">Helis</a></li>
+        <li><a href="/about-me">Über mich</a></li>
+      </ul>
+      <select onchange="if (this.value) window.location.href = this.value;">
+          <option selected value="#">Angebot</option>
+          <option value="/about-me">Über mich</option>
+          <option value="/helicopters">Helis</option>
+          <option value="/#flying-field">Flugplatz</option>
+          <option value="/#contact">Kontakt</option>
+        </select>
+    </nav>​
+  </header>
+</div>

@@ -2,7 +2,7 @@ var Metalsmith = require('metalsmith');
 // var collections = require('metalsmith-collections');
 var layouts = require('metalsmith-layouts');
 var markdown = require('metalsmith-markdown');
-// var permalinks = require('metalsmith-permalinks');
+var permalinks = require('metalsmith-permalinks');
 var Handlebars = require('handlebars');
 var fs = require('fs');
 var assets = require('metalsmith-assets');
@@ -17,7 +17,7 @@ Metalsmith(__dirname)
   .destination('./dist')
   .clean(true)
   .use(markdown())
-  // .use(permalinks({ relative: false }))
+  .use(permalinks({ relative: true }))
   // .use(portfolio())
   .use(layouts({ engine: 'handlebars' }))
   .use(assets({ source: './assets', destination: './' }))

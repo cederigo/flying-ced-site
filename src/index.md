@@ -60,9 +60,9 @@ slide-desc: Modellheli fliegen macht Spass! Lerne auch du bei mir gekonnt fliege
   <h1>Flugplatz</h1>
   <p>Meine Schulungen finde alle in der Region Bern statt.</p>
   <ul>
-    <li>Flugplatz "Breitengässli" - <a href="#flying-field" target="_blank">Standort</a> (Zwischen Niederscherli und Gasel)
+    <li>Flugplatz "Breitengässli" - <a href="https://maps.google.com/?q=46.891426,7.385542&t=k" target="_blank">Standort</a> (Zwischen Niederscherli und Gasel)
     </li>
-    <li>Flugplatz "Gurbrü" - <a href="#flying-field" target="_blank">Standort</a> (Ganz in der Nähe von Gurbrü)</li>
+    <li>Flugplatz "Gurbrü" - <a href="https://maps.google.com/?q=46.960330,7.229030&t=k" target="_blank">Standort</a> (Ganz in der Nähe von Gurbrü)</li>
   </ul>
   <p>Möchtest Du anderswo fliegen? Kontaktiere mich und wir besprechen die Einzelheiten</p>
 </article>

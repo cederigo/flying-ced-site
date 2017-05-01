@@ -28,7 +28,7 @@ slide-desc: Mehr zu meinen Flugkünsten und wie ich zu diesem Hobby gekommen bin
     Gut Flug!<br> Cédric
   </p>
 </article>
-<img class="aside" src="img/marcel_cedric.jpg" />
+<img class="aside" src="/img/marcel_cedric.jpg" />
 
 <article>
   <h1>Mein Flugstil</h1>

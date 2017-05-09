@@ -24,7 +24,7 @@ slide-desc: Modellheli fliegen macht Spass! Lerne auch du bei mir gekonnt fliege
 </article>
 
 <aside>
-  <h3><i class="logo"></i>Was ist ein Doppelsteuer?</h3>
+  <h3>Was ist ein Doppelsteuer?</h3>
   <p>Ein Doppelsteuer, auch Lehrer-Schüler-System genannt, verbindet zwei Sender – nämlich den des Fluglehrers und den
     des Flugschülers. Somit kann der Lehrer sofort helfend und steuernd eingreifen, wenn Not am Mann ist und der Schüler
     nicht mehr recht weiß was zu tun ist. Das hat schon so manches schöne Flugmodell vor dem frühen Absturz bewahrt!</p>

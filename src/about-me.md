@@ -4,9 +4,8 @@ title: Flying-Ced - Über mich
 slide-title: Über mich
 slide-desc: Mehr zu meinen Flugkünsten und wie ich zu diesem Hobby gekommen bin
 ---
-
 <article>
-  <h1>Eine kurze Geschichte</h1>
+  <h1>Über mich</h1>
   <p>
     Vor gut 20 Jahren hat mich mein Grossvater Théo in die Welt des Modellbaus eingeführt und seit damals begleitet mich dieses
     faszinierende Hobby. Meinen ersten Heli kaufte ich im Jahr 2006 und ich muss gestehen: Die ersten Erfahrungen waren eine
@@ -28,12 +27,22 @@ slide-desc: Mehr zu meinen Flugkünsten und wie ich zu diesem Hobby gekommen bin
     Gut Flug!<br> Cédric
   </p>
 </article>
-<img class="aside" src="/img/marcel_cedric.jpg" />
 
-<article>
+<div class="img-aside">
+  <img src="/img/me.jpg" />
+  <div class="desc">
+    2016: Kleine Wanderung auf die Möntschelealp ;-)
+  </div>
+  <img src="/img/marcel_cedric.jpg" />
+  <div class="desc">
+    1994: Marcel und Cédric beim fliegen in Belgien
+  </div>
+</div>
+
+<!--<article>
   <h1>Mein Flugstil</h1>
   <p>[Video]</p>
-</article>
+</article>-->
 
 <article>
   <h1>Mein Repertoire</h1>
